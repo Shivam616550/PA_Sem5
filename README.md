@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shivam616550/PA_Sem5/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shivam616550/PA_Sem5/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
@@ -24,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shivam616550/PA_Sem5/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Hash Table
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
+## Greedy
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
+## Sorting
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
