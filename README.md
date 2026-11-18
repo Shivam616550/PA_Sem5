@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shivam616550/PA_Sem5/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Shivam616550/PA_Sem5/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam616550/PA_Sem5/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Shivam616550/PA_Sem5/tree/master/0621-task-scheduler) |
@@ -140,9 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shivam616550/PA_Sem5/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Shivam616550/PA_Sem5/tree/master/0076-minimum-window-substring) |
 | [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Shivam616550/PA_Sem5/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
