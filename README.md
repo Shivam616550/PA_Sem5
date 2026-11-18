@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shivam616550/PA_Sem5/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Shivam616550/PA_Sem5/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Shivam616550/PA_Sem5/tree/master/0641-design-circular-deque) |
+| [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
 | [1046-last-stone-weight](https://github.com/Shivam616550/PA_Sem5/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shivam616550/PA_Sem5/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam616550/PA_Sem5/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Shivam616550/PA_Sem5/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
 ## Greedy
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam616550/PA_Sem5/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Shivam616550/PA_Sem5/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
 ## Divide and Conquer
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam616550/PA_Sem5/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Shivam616550/PA_Sem5/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/Shivam616550/PA_Sem5/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
@@ -91,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shivam616550/PA_Sem5/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shivam616550/PA_Sem5/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Shivam616550/PA_Sem5/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 ## Stack
 |  |
 | ------- |
@@ -127,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/Shivam616550/PA_Sem5/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Shivam616550/PA_Sem5/tree/master/0641-design-circular-deque) |
+## String
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
