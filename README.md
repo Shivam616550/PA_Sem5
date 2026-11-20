@@ -235,3 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivam616550/PA_Sem5/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam616550/PA_Sem5/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
+
+## Additional practice solutions
+
+The category folders contain distinct Java practice questions from the PA coursework. Questions already present in the LeetCode or weekly folders, along with repeated implementations, were not added again.
