@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Shivam616550/PA_Sem5/tree/master/0023-merge-k-sorted-lists) |
 | [0622-design-circular-queue](https://github.com/Shivam616550/PA_Sem5/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Shivam616550/PA_Sem5/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/Shivam616550/PA_Sem5/tree/master/0707-design-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Shivam616550/PA_Sem5/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Shivam616550/PA_Sem5/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Shivam616550/PA_Sem5/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/Shivam616550/PA_Sem5/tree/master/0707-design-linked-list) |
 ## String
 |  |
 | ------- |
