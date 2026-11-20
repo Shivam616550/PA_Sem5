@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shivam616550/PA_Sem5/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Shivam616550/PA_Sem5/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shivam616550/PA_Sem5/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam616550/PA_Sem5/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivam616550/PA_Sem5/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Shivam616550/PA_Sem5/tree/master/0454-4sum-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam616550/PA_Sem5/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Shivam616550/PA_Sem5/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shivam616550/PA_Sem5/tree/master/0142-linked-list-cycle-ii) |
 | [0622-design-circular-queue](https://github.com/Shivam616550/PA_Sem5/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Shivam616550/PA_Sem5/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Shivam616550/PA_Sem5/tree/master/0707-design-linked-list) |
@@ -208,8 +210,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shivam616550/PA_Sem5/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shivam616550/PA_Sem5/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shivam616550/PA_Sem5/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shivam616550/PA_Sem5/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
