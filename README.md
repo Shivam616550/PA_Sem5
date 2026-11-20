@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam616550/PA_Sem5/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Shivam616550/PA_Sem5/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Shivam616550/PA_Sem5/tree/master/0641-design-circular-deque) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shivam616550/PA_Sem5/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam616550/PA_Sem5/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam616550/PA_Sem5/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Shivam616550/PA_Sem5/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Shivam616550/PA_Sem5/tree/master/0641-design-circular-deque) |
 ## String
