@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Shivam616550/PA_Sem5/tree/master/0143-reorder-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shivam616550/PA_Sem5/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Shivam616550/PA_Sem5/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Shivam616550/PA_Sem5/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam616550/PA_Sem5/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Shivam616550/PA_Sem5/tree/master/0143-reorder-list) |
 | [0622-design-circular-queue](https://github.com/Shivam616550/PA_Sem5/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Shivam616550/PA_Sem5/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Shivam616550/PA_Sem5/tree/master/0707-design-linked-list) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Shivam616550/PA_Sem5/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivam616550/PA_Sem5/tree/master/0232-implement-queue-using-stacks) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shivam616550/PA_Sem5/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam616550/PA_Sem5/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Shivam616550/PA_Sem5/tree/master/0143-reorder-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
