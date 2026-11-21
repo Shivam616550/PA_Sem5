@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/Shivam616550/PA_Sem5/tree/master/0973-k-closest-points-to-origin) |
+| [0989-add-to-array-form-of-integer](https://github.com/Shivam616550/PA_Sem5/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/Shivam616550/PA_Sem5/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shivam616550/PA_Sem5/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shivam616550/PA_Sem5/tree/master/2073-time-needed-to-buy-tickets) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Shivam616550/PA_Sem5/tree/master/0973-k-closest-points-to-origin) |
+| [0989-add-to-array-form-of-integer](https://github.com/Shivam616550/PA_Sem5/tree/master/0989-add-to-array-form-of-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shivam616550/PA_Sem5/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
