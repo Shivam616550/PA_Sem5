@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Shivam616550/PA_Sem5/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shivam616550/PA_Sem5/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shivam616550/PA_Sem5/tree/master/2073-time-needed-to-buy-tickets) |
+| [2418-sort-the-people](https://github.com/Shivam616550/PA_Sem5/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shivam616550/PA_Sem5/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
+| [2418-sort-the-people](https://github.com/Shivam616550/PA_Sem5/tree/master/2418-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/Shivam616550/PA_Sem5/tree/master/0973-k-closest-points-to-origin) |
+| [2418-sort-the-people](https://github.com/Shivam616550/PA_Sem5/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shivam616550/PA_Sem5/tree/master/0076-minimum-window-substring) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivam616550/PA_Sem5/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
+| [2418-sort-the-people](https://github.com/Shivam616550/PA_Sem5/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
 | ------- |
