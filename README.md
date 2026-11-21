@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Shivam616550/PA_Sem5/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Shivam616550/PA_Sem5/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Shivam616550/PA_Sem5/tree/master/0118-pascals-triangle) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shivam616550/PA_Sem5/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Shivam616550/PA_Sem5/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam616550/PA_Sem5/tree/master/0347-top-k-frequent-elements) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivam616550/PA_Sem5/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Shivam616550/PA_Sem5/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Shivam616550/PA_Sem5/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Shivam616550/PA_Sem5/tree/master/0141-linked-list-cycle) |
@@ -276,6 +279,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shivam616550/PA_Sem5/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shivam616550/PA_Sem5/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
 
 ## Additional practice solutions
