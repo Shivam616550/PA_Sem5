@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivam616550/PA_Sem5/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Shivam616550/PA_Sem5/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shivam616550/PA_Sem5/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/Shivam616550/PA_Sem5/tree/master/1046-last-stone-weight) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shivam616550/PA_Sem5/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Shivam616550/PA_Sem5/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Shivam616550/PA_Sem5/tree/master/0973-k-closest-points-to-origin) |
 | [2418-sort-the-people](https://github.com/Shivam616550/PA_Sem5/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam616550/PA_Sem5/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Shivam616550/PA_Sem5/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shivam616550/PA_Sem5/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Shivam616550/PA_Sem5/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Shivam616550/PA_Sem5/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Shivam616550/PA_Sem5/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivam616550/PA_Sem5/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -145,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shivam616550/PA_Sem5/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivam616550/PA_Sem5/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shivam616550/PA_Sem5/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -262,6 +268,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivam616550/PA_Sem5/tree/master/0070-climbing-stairs) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
 
 ## Additional practice solutions
