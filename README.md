@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shivam616550/PA_Sem5/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Shivam616550/PA_Sem5/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/Shivam616550/PA_Sem5/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam616550/PA_Sem5/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivam616550/PA_Sem5/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivam616550/PA_Sem5/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shivam616550/PA_Sem5/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/Shivam616550/PA_Sem5/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
