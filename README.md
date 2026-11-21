@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/Shivam616550/PA_Sem5/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Shivam616550/PA_Sem5/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shivam616550/PA_Sem5/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0088-merge-sorted-array) |
@@ -287,6 +288,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shivam616550/PA_Sem5/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Shivam616550/PA_Sem5/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
 
 ## Additional practice solutions
