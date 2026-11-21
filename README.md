@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shivam616550/PA_Sem5/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Shivam616550/PA_Sem5/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shivam616550/PA_Sem5/tree/master/0989-add-to-array-form-of-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shivam616550/PA_Sem5/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -240,7 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shivam616550/PA_Sem5/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shivam616550/PA_Sem5/tree/master/0118-pascals-triangle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shivam616550/PA_Sem5/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
 
 ## Additional practice solutions
