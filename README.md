@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Shivam616550/PA_Sem5/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Shivam616550/PA_Sem5/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shivam616550/PA_Sem5/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Shivam616550/PA_Sem5/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Shivam616550/PA_Sem5/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam616550/PA_Sem5/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Shivam616550/PA_Sem5/tree/master/0118-pascals-triangle) |
@@ -296,6 +297,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shivam616550/PA_Sem5/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivam616550/PA_Sem5/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shivam616550/PA_Sem5/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Shivam616550/PA_Sem5/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shivam616550/PA_Sem5/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
 
 ## Additional practice solutions
