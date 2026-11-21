@@ -5,10 +5,10 @@ class Solution {
         while (i >= 0 || k > 0){
             if (i >= 0){
                 k += num[i];
-                i--;
             }
             list.add(k % 10);
             k /= 10;
+            i--;
         }
         Collections.reverse(list);
         return list;
